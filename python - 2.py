@@ -1,0 +1,21 @@
+# fundamental data types
+print(2 + 4)
+print(2 - 4)
+print(2 * 4)
+print(2 / 4)
+print(type(2 + 4))
+print(type(2 - 4))
+print(type(2 * 4))
+print(type(2 / 4))
+print(type(9.9 + 1.1))
+print(9.9 + 1.1)
+print(2 ** 9)
+print(3 // 9) 
+print(3 % 2)
+print(3 % 3)
+
+#math functions
+print(round(3.9))
+print(abs(-3.9))
+print(20 - 3 * 4)
+print((20 - 3) + 2 ** 2)

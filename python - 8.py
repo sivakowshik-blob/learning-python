@@ -1,0 +1,9 @@
+name = "Plump"
+age = 24
+print("hi " + name + " , you are  " + str(age) + " years old.")
+ 
+# formatted strings
+
+print(f"hi {name} , you are {age} years old.")  
+print("hi {} , you are {} years old.".format(name, age))
+print("hi {new_name} , you are {age} years old".format(new_name = "pluey" , age = 44)) 
